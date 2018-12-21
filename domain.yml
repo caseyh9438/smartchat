@@ -1,0 +1,13 @@
+intents:
+  - greet
+  - thankyou
+
+actions:
+- utter_greet
+- utter_your_welcome
+
+templates:
+  utter_greet:
+  - text: "Hey! How are you?"
+  utter_your_welcome:
+  - text: "Your welcome"
