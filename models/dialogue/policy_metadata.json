@@ -3,10 +3,46 @@
     "action_listen": {
       "slots": []
     },
-    "utter_your_welcome": {
+    "utter_thats_cool": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "pass_control_action": {
       "slots": []
     },
     "utter_greet": {
+      "slots": []
+    },
+    "utter_your_welcome": {
+      "slots": []
+    },
+    "utter_no_no": {
+      "slots": []
+    },
+    "utter_your_name": {
+      "slots": []
+    },
+    "utter_who_are_you": {
+      "slots": []
+    },
+    "utter_what_can_you_do": {
+      "slots": []
+    },
+    "utter_timeline": {
+      "slots": []
+    },
+    "utter_work_process": {
+      "slots": []
+    },
+    "utter_price": {
+      "slots": []
+    },
+    "utter_about": {
+      "slots": []
+    },
+    "utter_take_compliment": {
       "slots": []
     }
   },
@@ -25,5 +61,5 @@
     "rasa_core.policies.memoization.MemoizationPolicy",
     "rasa_core.policies.form_policy.FormPolicy"
   ],
-  "trained_at": "20181220-223351"
+  "trained_at": "20181225-210624"
 }

@@ -3,6 +3,21 @@
 actions:
 - utter_greet
 - utter_your_welcome
+- utter_goodbye
+- utter_default
+- utter_no_no
+- utter_thank_you
+- utter_who_are_you
+- utter_your_name
+- utter_take_compliment
+- utter_what_can_you_do
+- utter_price
+- utter_about
+- utter_talk_to_team
+- utter_timeline
+- utter_work_process
+- utter_thats_cool
+- pass_control_action
 config:
   store_entities_as_slots: true
 entities: []
@@ -12,9 +27,134 @@ intents:
     use_entities: true
 - thankyou:
     use_entities: true
-slots: {}
+- take_compliment:
+    use_entities: true
+- no_no:
+    use_entities: true
+- yes_yes:
+    use_entities: true
+- your_name:
+    use_entities: true
+- who_are_you:
+    use_entities: true
+- what_can_you_do:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- price:
+    use_entities: true
+- about:
+    use_entities: true
+- talk_to_team:
+    use_entities: true
+- timeline:
+    use_entities: true
+- work_process:
+    use_entities: true
+- thats_cool:
+    use_entities: true
+slots:
+  email:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  requested_slot:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.UnfeaturizedSlot
 templates:
+  utter_about:
+  - buttons:
+    - payload: Connect with the team
+      title: Let's do it!
+    - payload: No thanks
+      title: No thanks
+    text: SmartChat Labs helps businesses book more rooms, appointments or meetings
+      by providing quicker customer service responses through the creation of conversational
+      agents like me! Would you like me to connect you with someone on the team to
+      discuss more?
+  utter_default:
+  - buttons:
+    - payload: Question for the team
+      title: Question for the team
+    - payload: Pricing
+      title: Pricing
+    - payload: What is SmartChat Labs
+      title: What is SmartChat Labs
+    text: You've stumped me! Not sure what you mean. Could you rephrase or pick one
+      of the options provided?
+  - buttons:
+    - payload: Question for the team
+      title: Question for the team
+    - payload: Pricing
+      title: Pricing
+    - payload: What is SmartChat Labs
+      title: What is SmartChat Labs
+    text: I'm sorry, I don't quite understand. Could you rephrase or select one of
+      the options provided.
+  utter_goodbye:
+  - text: Talk to you later
+  - text: Goodbye
+  - text: Talk to you when you get back!
   utter_greet:
   - text: Hey! How are you?
+  - text: Hey, how can I be of assistance?
+  - text: Hello, what can I do for you?
+  - text: Hi, how can I assist you?
+  utter_no_no:
+  - text: Okay. What else can I do for you?
+  utter_price:
+  - buttons:
+    - payload: Connect with the team
+      title: Let's do it!
+    - payload: No thanks
+      title: No thanks
+    text: Our pricing is rooted in our ability to deliver value to your organization.
+      Let me connect you with the SmartChat team to discuss more about pricing.
+  utter_take_compliment:
+  - text: awww shucks!
+  - text: You're pretty cool as well
+  utter_talk_to_team:
+  - text: Cool! I'm happy to connect you with the SmartChat Labs team!
+  - text: Nice! I'm excited to connect you with the SmartChat Labs team!
+  utter_thank_you:
+  - text: I am here to serve
+  - text: Happy to help
+  - text: No problem
+  - text: My pleasure
+  utter_thats_cool:
+  - text: yes....yes it is
+  - text: indeed
+  - text: I agree
+  utter_timeline:
+  - buttons:
+    - payload: Connect with the team
+      title: Let's do it!
+    - payload: No thanks
+      title: No thanks
+    text: The time of creating a conversational agent could flux from three weeks
+      to three months depending on the parameters of the project. Do you want to connect
+      with someone on the team to discuss more?
+  utter_what_can_you_do:
+  - text: I can help answer basic questions about SmartChat Labs, and work to connect
+      you with someone on the team.
+  utter_who_are_you:
+  - text: I am a conversational agent built to help those who want to learn and engage
+      more with SmartChat Labs
+  utter_work_process:
+  - buttons:
+    - payload: Connect with the team
+      title: Yes!
+    - payload: No thanks
+      title: No thanks
+    text: The first step is a consultation with a member to discuss your organizations
+      current needs and how that will influence the parameters of the project. Let
+      me connect you with a team member to discuss more about the process.
+  utter_your_name:
+  - text: My name is Ralphie
+  - text: Ralphie
+  - text: My friends call me Ralphie
   utter_your_welcome:
   - text: Your welcome
+  - text: Happy to help
+  - text: No problem

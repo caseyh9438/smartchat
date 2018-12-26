@@ -26,6 +26,82 @@
         "text": "hey there"
       },
       {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "howdy"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "It's nice to meet you"
+      },
+      {
+        "intent": "greet",
+        "text": "It's a pleasure to meet you"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi!"
+      },
+      {
+        "intent": "greet",
+        "text": "Morning!"
+      },
+      {
+        "intent": "greet",
+        "text": "How are things?"
+      },
+      {
+        "intent": "greet",
+        "text": "What's new?"
+      },
+      {
+        "intent": "greet",
+        "text": "G'day!"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "What's up?"
+      },
+      {
+        "intent": "greet",
+        "text": "How's it going?"
+      },
+      {
+        "intent": "greet",
+        "text": "What's happening"
+      },
+      {
+        "intent": "greet",
+        "text": "Yo!"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "greet",
+        "text": "What's up!?"
+      },
+      {
         "intent": "thankyou",
         "text": "thanks!"
       },
@@ -40,6 +116,1026 @@
       {
         "intent": "thankyou",
         "text": "thanks very much"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thank you"
+      },
+      {
+        "intent": "thankyou",
+        "text": "I appreciate your help"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks buddy"
+      },
+      {
+        "intent": "thankyou",
+        "text": "I appreciate it"
+      },
+      {
+        "intent": "thankyou",
+        "text": "great thanks man"
+      },
+      {
+        "intent": "thankyou",
+        "text": "great thank you"
+      },
+      {
+        "intent": "thankyou",
+        "text": "great thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "good thanks"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks girl"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thank you"
+      },
+      {
+        "intent": "thankyou",
+        "text": "thanks"
+      },
+      {
+        "intent": "no_no",
+        "text": "nope"
+      },
+      {
+        "intent": "no_no",
+        "text": "naw"
+      },
+      {
+        "intent": "no_no",
+        "text": "no way"
+      },
+      {
+        "intent": "no_no",
+        "text": "negative"
+      },
+      {
+        "intent": "no_no",
+        "text": "nah"
+      },
+      {
+        "intent": "no_no",
+        "text": "no siree"
+      },
+      {
+        "intent": "no_no",
+        "text": "not in a million years"
+      },
+      {
+        "intent": "no_no",
+        "text": "not likely"
+      },
+      {
+        "intent": "no_no",
+        "text": "no sir"
+      },
+      {
+        "intent": "no_no",
+        "text": "no mam"
+      },
+      {
+        "intent": "no_no",
+        "text": "not today"
+      },
+      {
+        "intent": "no_no",
+        "text": "no"
+      },
+      {
+        "intent": "no_no",
+        "text": "no thank you"
+      },
+      {
+        "intent": "no_no",
+        "text": "not likely"
+      },
+      {
+        "intent": "no_no",
+        "text": "\"No"
+      },
+      {
+        "intent": "no_no",
+        "text": "no sir"
+      },
+      {
+        "intent": "no_no",
+        "text": "no mam"
+      },
+      {
+        "intent": "no_no",
+        "text": "not today"
+      },
+      {
+        "intent": "no_no",
+        "text": "no shes not"
+      },
+      {
+        "intent": "no_no",
+        "text": "no"
+      },
+      {
+        "intent": "no_no",
+        "text": "no"
+      },
+      {
+        "intent": "no_no",
+        "text": "I don't want to get tested"
+      },
+      {
+        "intent": "no_no",
+        "text": "no"
+      },
+      {
+        "intent": "no_no",
+        "text": "no thanks"
+      },
+      {
+        "intent": "no_no",
+        "text": "no thanks"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yes"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "okay"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "fo sho"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "for sure"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "okie dokie"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yessir"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "totally"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "fo' shizzle"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "surely"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "surley"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "ja"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "right on"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yuppers"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yup"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "very well"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "righto"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "10-4"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "aye aye"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "affirmative"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "by all means"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "okey-dokey"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "ya"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "sure"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yeah"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yeah sure whatever"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "Yes please sir"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "ya sure"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "Yeah please"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "sure"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yea please"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yes"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yes please"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yeah"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "yeah!"
+      },
+      {
+        "intent": "yes_yes",
+        "text": "Let's do it!"
+      },
+      {
+        "intent": "your_name",
+        "text": "what is your name"
+      },
+      {
+        "intent": "your_name",
+        "text": "What is your name"
+      },
+      {
+        "intent": "your_name",
+        "text": "What is your name?"
+      },
+      {
+        "intent": "your_name",
+        "text": "tell me your name"
+      },
+      {
+        "intent": "your_name",
+        "text": "Tell me your name"
+      },
+      {
+        "intent": "your_name",
+        "text": "your name"
+      },
+      {
+        "intent": "your_name",
+        "text": "what's your name again"
+      },
+      {
+        "intent": "your_name",
+        "text": "tell me your name again"
+      },
+      {
+        "intent": "your_name",
+        "text": "is your name"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "who are you"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "Tell me about yourself"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "Tell me who you are"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "What are you"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "tell me about yourself"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "what are you"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "tell me who you are"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "describe yourself"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "why do you exist"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "what is your purpose"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "so tell me who you are"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "remind me who are you"
+      },
+      {
+        "intent": "who_are_you",
+        "text": "What are you all about"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what can you do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what tasks can you do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "Tell me what you can do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "What things can you do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "Remind me of what you can do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "Tell me again what can you do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "What can you help me do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "How can you help me do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what talks can you do"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "how do you serve the HD community"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "how can you serve the HD community"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "in what ways do you serve the HD community"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what are your talents"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what are your skills"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what can you do for people with HD"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "what can you do for caregivers"
+      },
+      {
+        "intent": "what_can_you_do",
+        "text": "What can you do?"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Farewell"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Have a good day"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Take care"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Bye!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Bye bye!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Later!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "See you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "So long"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Catch you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Peace out"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "I'm out!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Smell you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Adios"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Goodbye"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Farewell"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Have a good day"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Take care"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Bye!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Bye bye!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Later!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "See you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "talk to you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "So long"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Catch you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Peace out"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "I'm out!"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Smell you later"
+      },
+      {
+        "intent": "Goodbye",
+        "text": "Adios"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "you are awesome"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "you are the best"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're awesome"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're the best"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're great"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You are amazing"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're a lifesaver"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "i like you"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "you are awesome"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "you are the best"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're awesome"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're the best"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're great"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You are amazing"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "You're a lifesaver"
+      },
+      {
+        "intent": "take_compliment",
+        "text": "i like you"
+      },
+      {
+        "intent": "price",
+        "text": "how much does it cost?"
+      },
+      {
+        "intent": "price",
+        "text": "tell me about pricing"
+      },
+      {
+        "intent": "price",
+        "text": "what is the price"
+      },
+      {
+        "intent": "price",
+        "text": "what is the cost"
+      },
+      {
+        "intent": "price",
+        "text": "how much?"
+      },
+      {
+        "intent": "price",
+        "text": "how much"
+      },
+      {
+        "intent": "price",
+        "text": "price"
+      },
+      {
+        "intent": "price",
+        "text": "cost"
+      },
+      {
+        "intent": "price",
+        "text": "how much will I be charged?"
+      },
+      {
+        "intent": "price",
+        "text": "how do you price your projects?"
+      },
+      {
+        "intent": "price",
+        "text": "What does this cost"
+      },
+      {
+        "intent": "price",
+        "text": "how expensive is this?"
+      },
+      {
+        "intent": "price",
+        "text": "is this expensive"
+      },
+      {
+        "intent": "price",
+        "text": "will this be expensive?"
+      },
+      {
+        "intent": "price",
+        "text": "Pricing"
+      },
+      {
+        "intent": "about",
+        "text": "what is smartchat labs?"
+      },
+      {
+        "intent": "about",
+        "text": "who is smartchat?"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about the team"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about the company"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about smartchat labs"
+      },
+      {
+        "intent": "about",
+        "text": "about smartchat"
+      },
+      {
+        "intent": "about",
+        "text": "about page"
+      },
+      {
+        "intent": "about",
+        "text": "what is smart chat?"
+      },
+      {
+        "intent": "about",
+        "text": "what is smartchat labs?"
+      },
+      {
+        "intent": "about",
+        "text": "who is smartchat?"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about the team"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about the company"
+      },
+      {
+        "intent": "about",
+        "text": "tell me about smartchat labs"
+      },
+      {
+        "intent": "about",
+        "text": "about smartchat"
+      },
+      {
+        "intent": "about",
+        "text": "what is smart chat?"
+      },
+      {
+        "intent": "about",
+        "text": "about page"
+      },
+      {
+        "intent": "about",
+        "text": "why should I do this"
+      },
+      {
+        "intent": "about",
+        "text": "whats the value proposition"
+      },
+      {
+        "intent": "about",
+        "text": "whats the value"
+      },
+      {
+        "intent": "about",
+        "text": "why should I pay for this"
+      },
+      {
+        "intent": "about",
+        "text": "why should I do this"
+      },
+      {
+        "intent": "about",
+        "text": "whats the value proposition"
+      },
+      {
+        "intent": "about",
+        "text": "whats the value"
+      },
+      {
+        "intent": "about",
+        "text": "why should I pay for this"
+      },
+      {
+        "intent": "about",
+        "text": "What is SmartChat Labs"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "connect me with the team"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "I want to talk to someone"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "connect me with someone on the team"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "human"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "i want to talk to a human"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "schedule an appointment"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "set up meeting with the team"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "set up a meeting"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "see demo"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "meeting"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "demo"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "Question for the team"
+      },
+      {
+        "intent": "talk_to_team",
+        "text": "Connect with the team"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long does this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "what is the timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "how much time will making a conversation agent take"
+      },
+      {
+        "intent": "timeline",
+        "text": "how much time"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long with this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long will this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "what the timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long does this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "what is the timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "how much time will making a conversation agent take"
+      },
+      {
+        "intent": "timeline",
+        "text": "how much time"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long with this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "how long will this take"
+      },
+      {
+        "intent": "timeline",
+        "text": "what the timeline"
+      },
+      {
+        "intent": "timeline",
+        "text": "timeline"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the process?"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the next step?"
+      },
+      {
+        "intent": "work_process",
+        "text": "first step?"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the process?"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the next step?"
+      },
+      {
+        "intent": "work_process",
+        "text": "first step?"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the process?"
+      },
+      {
+        "intent": "work_process",
+        "text": "whats the next step?"
+      },
+      {
+        "intent": "work_process",
+        "text": "first step?"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "thats cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's awesome"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "awesome"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's great"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "great"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "sweet"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's sweet"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "thats cool"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's awesome"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "awesome"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's great"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "great"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "sweet"
+      },
+      {
+        "intent": "thats_cool",
+        "text": "that's sweet"
       }
     ],
     "regex_features": [],
