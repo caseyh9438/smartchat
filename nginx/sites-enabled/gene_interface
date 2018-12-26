@@ -1,0 +1,24 @@
+server {
+
+    listen 80;
+    server_name example.org;
+    charset utf-8;
+
+    location /static {
+        # alias /usr/src/app/static;
+        # alias /volumes/www/static;
+        alias /code/static;
+    }
+
+    location / {
+        proxy_pass http://web:5005;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_connect_timeout 50000;
+        proxy_read_timeout 50000;
+        proxy_send_timeout 50000;
+    }
+
+
+}
