@@ -60,6 +60,9 @@ conda create --name my_env python=3
 source activate NAME
 conda install PACKAGE NAME
 
+## Nginx Setup
+https://www.digitalocean.com/comunity/tutorials/how-to-install-nginx-on-ubuntu-18-04
+
 
 ##Obtain HTTPS
 sudo add-apt-repository ppa:certbot/certbot

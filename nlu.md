@@ -261,6 +261,58 @@
 - demo
 - Question for the team
 - Connect with the team
+- talk to team
+- connect me with the team
+- I want to talk to someone
+- connect me with someone on the team
+- human
+- i want to talk to a human
+- schedule an appointment
+- set up meeting with the team
+- set up a meeting
+- see demo
+- meeting
+- demo
+- Question for the team
+- Connect with the team
+- talk to team
+- how can I contact someone
+- contact
+- contact team
+- contact
+- how can I contact someone
+- contact
+- contact team
+- contact 
+
+
+## intent:need_support
+- help!
+- Great! help
+- help
+- Help
+- I need help
+- support
+- I need support
+- support!
+- Support
+- can you help me?
+- help me
+- help and support
+- help!
+- Great! help
+- help
+- Help
+- I need help
+- support
+- I need support
+- support!
+- Support
+- can you help me?
+- help me
+- help and support
+
+
 
 ## intent:timeline
 - how long does this take
@@ -313,5 +365,36 @@
 - great
 - sweet
 - that's sweet
+
+#########
+## intent:hours_of_operation
+- what are your hours
+- hours of operation
+- office hours
+- company hours
+- how late do you stay open
+- what are your hours
+- hours of operation
+- office hours
+- company hours
+- how late do you stay open
+
+
+## intent:office_location
+- where is your office located
+- where are you located
+- where is the company located
+- office location
+- location
+- where are you
+- where is your office located
+- where are you located
+- where is the company located
+- office location
+- location
+- where are you
+
+## intent:who_is_the_owner
+
 
 

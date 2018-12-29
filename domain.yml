@@ -20,6 +20,9 @@ intents:
   - timeline
   - work_process
   - thats_cool
+  - need_support
+  - hours_of_operations
+  - office_location
 
 actions:
 - utter_greet
@@ -38,9 +41,18 @@ actions:
 - utter_timeline
 - utter_work_process
 - utter_thats_cool
+- utter_need_support
+- utter_hours_of_operation
+- utter_office_location
 - pass_control_action
 
 templates:
+  utter_hours_of_operation:
+  - text: "Our office hours run from 8am to 6pm Monday through Friday."
+  utter_office_location:
+  - text: "The SmartChat offices are located in Savannah, GA at Bull Street Labs."
+  utter_need_support:
+  - text: "How can I be of help? If I am unable to answer your questions then I would be happy to connect you with someone on our team who might be able to assist."
   utter_about:
   - text: "SmartChat Labs helps businesses book more rooms, appointments or meetings by providing quicker customer service responses through the creation of conversational agents like me! Would you like me to connect you with someone on the team to discuss more?"
     buttons:
@@ -71,8 +83,8 @@ templates:
   utter_default:
   - text: "You've stumped me! Not sure what you mean. Could you rephrase or pick one of the options provided?"
     buttons:
-    - title: "Question for the team"
-      payload: "Question for the team"
+    - title: "Talk to Team"
+      payload: "Talk to Team"
     - title: "Pricing"
       payload: "Pricing"
     - title: "What is SmartChat Labs"

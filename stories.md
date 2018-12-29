@@ -66,6 +66,18 @@
   - utter_talk_to_team
   - pass_control_action
   
+## Happy Path 16
+* need_support
+  - utter_need_support
+  
+## Happy Path 17
+* hours_of_operation
+  - utter_hours_of_operation
+
+## Happy Path 18
+* office_location
+  - utter_office_location
+  
 
 
    
