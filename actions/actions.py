@@ -42,8 +42,8 @@ class PassControl(Action):
         #r = requests.get('http://127.0.0.1:4040')
         #incoming_message = r.json()
 
-        app_id = 263902037430900
-        page_access_token = "EAADFWBftMjABAIuAAiqgYt9eGcMLdhspZB1SFpP08aZAwS5tI03WHR6DZAqz5tfHBIzZCXiRbSCp84pP1Dk8omEPVZCNVI2xqbHjAe4xsYon60Fb6WKnf1sTWAZCm2lE2zmqZBMObvZAyZBjiAksN76VAMBVuOd8qCONneOZAPWU3vfAZDZD"
+        app_id = ''
+        page_access_token = ""
         ps_id = tracker.sender_id
         pass_url = "https://graph.facebook.com/v2.6/me/pass_thread_control?access_token={}".format(page_access_token)
         data = json.dumps({"recipient": {"id": ps_id}, "target_app_id": app_id, "metadata": "Conversation elevated"})
